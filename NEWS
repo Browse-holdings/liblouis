@@ -16,6 +16,8 @@ issues]].
   - Added new Cyrillic letters.
   - Fixed several minor bugs.
 - New table for Uzbek braille thanks to BAUM Engineering.
+- New table for grade 2 Malay braille (Malaysia) thanks to Herbert
+  Koh.
 
 ** Other changes
 - You can now use up to 256 ~noletsign~ characters in a table, thanks
